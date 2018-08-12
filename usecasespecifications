@@ -1,0 +1,19 @@
+Define a detailed use-case specification for the main use-case of a customer renting a car. (4 marks)
+
+Use case name: Car Rental
+
+Brief description: Customer rents a car based on their specifications.
+
+Initiating Actor: Customer
+
+Actor's goal: To rent a car
+
+Participating actors: Company, system, managers, staff, insurance guy
+
+Flow of events only for the Main Success usage scenario:
+    1. Customer searches for a car based on criteria.
+    2. Customer selects a car and books it, entering payment details.
+    3. System processes the payment details and holds the information while manager records car rented.
+    4. System returns a payment confirmation email to the customer.
+
+    
